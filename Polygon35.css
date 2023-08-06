@@ -1,0 +1,8 @@
+.polygon-div3 {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 5.42px;
+  transform: rotate(-180deg);
+  transform-origin: 0 0;
+}

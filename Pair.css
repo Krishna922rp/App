@@ -1,0 +1,7 @@
+.pair {
+  position: relative;
+  font-size: 14.46px;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+}

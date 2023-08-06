@@ -1,0 +1,10 @@
+.dkk-36000 {
+  font-weight: 500;
+}
+.total-dkk-container {
+  position: relative;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  text-align: left;
+  font-family: var(--font-inter);
+}

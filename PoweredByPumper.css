@@ -1,0 +1,8 @@
+.powered-by-pumper {
+  position: relative;
+  font-size: var(--font-size-xs);
+  font-weight: 300;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+}

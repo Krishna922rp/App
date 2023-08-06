@@ -1,0 +1,9 @@
+.free-2-day {
+  position: relative;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-seagreen);
+  text-align: left;
+  opacity: 0.6;
+}

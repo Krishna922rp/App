@@ -1,0 +1,50 @@
+.group-child,
+.group-item {
+  position: absolute;
+  box-sizing: border-box;
+}
+.group-child {
+  top: 0;
+  left: 0;
+  border-radius: 3.62px;
+  background-color: var(--color-white);
+  border: 0.9px solid var(--color-silver);
+  width: 340.73px;
+  height: 74.11px;
+}
+.group-item {
+  top: 29.83px;
+  left: 21.69px;
+  border-radius: 50%;
+  border: 0.9px solid var(--color-gainsboro-100);
+  width: 14.46px;
+  height: 14.46px;
+}
+.dkk-52800,
+.pair1 {
+  position: absolute;
+  top: 19.88px;
+  left: 54.23px;
+}
+.dkk-52800 {
+  top: 39.77px;
+  font-weight: 500;
+}
+.off3 {
+  text-transform: uppercase;
+}
+.off2 {
+  position: absolute;
+  top: 29.83px;
+  left: 253.97px;
+  font-weight: 500;
+}
+.rectangle-parent {
+  position: relative;
+  width: 100%;
+  height: 74.11px;
+  text-align: left;
+  font-size: 14.46px;
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
